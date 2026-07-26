@@ -4521,7 +4521,7 @@
     "name": "unsent-letters",
     "author": "antonabbac",
     "repo": "antonabbac/unsent-letters",
-    "screenshot": "Screenshots/main.png",
+    "screenshot": "Screenshots/Main.png",
     "modes": ["dark"]
   },
   {
@@ -4567,10 +4567,10 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Atom-Darker",
-    "author": "Henrique Manduca",
-    "repo": "henriquemanduca/atom-darker-theme",
-    "screenshot": "Screenshot_dark.png",
-    "modes": ["dark"]
+    "name": "Bamboo China",
+    "author": "羽鳞君",
+    "repo": "miaoziguan/obsidian-bamboo-china",
+    "screenshot": "image-1.png",
+    "modes": ["dark", "light"]
   }
 ]
