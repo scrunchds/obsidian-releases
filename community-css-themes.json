@@ -4168,13 +4168,6 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Black and White",
-    "author": "wulflo",
-    "repo": "wulflo/obsidian-BlackAndWhite",
-    "screenshot": "cover.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Neon Dreams",
     "author": "Guilherme Tagliati",
     "repo": "guilhermetagliati/neon-dreams-obsidian-theme",
@@ -4379,7 +4372,7 @@
   },
   {
     "name": "Composed",
-    "author": "Zijie Wang",
+    "author": "zjie-wang",
     "repo": "zjie-wang/obsidian-composed",
     "screenshot": "screenshot.png",
     "modes": ["light"]
@@ -4518,13 +4511,6 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "unsent-letters",
-    "author": "antonabbac",
-    "repo": "antonabbac/unsent-letters",
-    "screenshot": "Screenshots/Main.png",
-    "modes": ["dark"]
-  },
-  {
     "name": "OB Everforest",
     "author": "smoose",
     "repo": "smoosex/ob-everforest",
@@ -4571,6 +4557,20 @@
     "author": "羽鳞君",
     "repo": "miaoziguan/obsidian-bamboo-china",
     "screenshot": "image-1.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Diagrammo Slate",
+    "author": "Demian Neidetcher",
+    "repo": "demian0311/obsidian-slate",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Vignelli",
+    "author": "Wes Ellis",
+    "repo": "wesellis/vignelli-obsidian-theme",
+    "screenshot": "assets/vignelli-hero.png",
     "modes": ["dark", "light"]
   }
 ]
