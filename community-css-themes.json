@@ -3314,13 +3314,6 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Panorama",
-    "author": "magmabits",
-    "repo": "magmabits/Panorama-Theme",
-    "screenshot": "panorama-screen.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Obsiddy-In Terminal",
     "author": "leonjacobs-collab",
     "repo": "leonjacobs-collab/obsidian-terminal-theme",
@@ -3811,13 +3804,6 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Alien",
-    "author": "jabaho9523",
-    "repo": "jabaho9523/AlienTheme",
-    "screenshot": "screenshot.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Slytherin",
     "author": "MatheusZarkov",
     "repo": "matheuszarkov/slytherin",
@@ -4168,6 +4154,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Black and White",
+    "author": "wulflo",
+    "repo": "wulflo/obsidian-BlackAndWhite",
+    "screenshot": "cover.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Neon Dreams",
     "author": "Guilherme Tagliati",
     "repo": "guilhermetagliati/neon-dreams-obsidian-theme",
@@ -4469,13 +4462,6 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Aera",
-    "author": "def-peter",
-    "repo": "def-peter/obsidian-aera-theme",
-    "screenshot": "screenshot.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Glass Scholar",
     "author": "赋到沧桑",
     "repo": "sidny1988/Glass-Scholar",
@@ -4560,17 +4546,59 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Diagrammo Slate",
-    "author": "Demian Neidetcher",
-    "repo": "demian0311/obsidian-slate",
-    "screenshot": "screenshot.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Vignelli",
     "author": "Wes Ellis",
     "repo": "wesellis/vignelli-obsidian-theme",
     "screenshot": "assets/vignelli-hero.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "MagicUser",
+    "author": "Bernardo Pires",
+    "repo": "drbap/magicuser-theme-for-obsidian",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "pixel-blue",
+    "author": "nouvee",
+    "repo": "rinrinsu/pixel-blue-theme",
+    "screenshot": "screenshot-512x288.jpg",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Isinglass",
+    "author": "ameyxd",
+    "repo": "ameyxd/obsidian-isinglass",
+    "screenshot": "screenshots/screenshot_1.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "ForestRest",
+    "author": "fengmz",
+    "repo": "fengmz/ForestRest",
+    "screenshot": "images/preview-light-16x9.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "cendre",
+    "author": "aejkatappaja",
+    "repo": "aejkatappaja/cendre-obsidian",
+    "screenshot": "screenshot.jpg",
+    "modes": ["dark"]
+  },
+  {
+    "name": "Aurora Glass",
+    "author": "OtmiVI",
+    "repo": "otmivi/aurora_glass",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Paper Ember",
+    "author": "Eone",
+    "repo": "eonewg/paper-ember",
+    "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
   }
 ]
