@@ -3384,13 +3384,6 @@
     "modes": ["dark", "light"]
   },
   {
-    "name": "Aubade",
-    "author": "ducktapekiller",
-    "repo": "ducktapekiller/obsidian-aubade",
-    "screenshot": "screenshot.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Neon Dracula",
     "author": "scbrown",
     "repo": "scbrown/neon-dracula-obsidian",
@@ -4546,6 +4539,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Diagrammo Slate",
+    "author": "Demian Neidetcher",
+    "repo": "demian0311/obsidian-slate",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Vignelli",
     "author": "Wes Ellis",
     "repo": "wesellis/vignelli-obsidian-theme",
@@ -4598,6 +4598,62 @@
     "name": "Paper Ember",
     "author": "Eone",
     "repo": "eonewg/paper-ember",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Tufte",
+    "author": "PleiadesM",
+    "repo": "pleiadesm/TufteObsidian",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Cyber",
+    "author": "Alex Yelisieiev",
+    "repo": "alex-yelisieiev/cyber-obsidian",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "March",
+    "author": "Eva Chen",
+    "repo": "sakurastral/obsidian-march-theme",
+    "screenshot": "image/cover.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Nebula",
+    "author": "Devaang Mandalia",
+    "repo": "devmandalia/Nebula",
+    "screenshot": "screenshots/dark-kanban.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Retro Relay",
+    "author": "Rahela@",
+    "repo": "rahelaq/retro-relay",
+    "screenshot": "screenshots/screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "macOS Tahoe",
+    "author": "Alex Yelisieiev",
+    "repo": "alex-yelisieiev/macos-tahoe-obsidian",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "BrutalGarden",
+    "author": "Rustam Agamaliev",
+    "repo": "rustam-aka-rust/obsidian-brutalgarden",
+    "screenshot": "screenshot.png ",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Forgotten Golden Sanctuary",
+    "author": "CosmicSeaFox",
+    "repo": "cosmicseafox/Forgotten-Golden-Sanctuary",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
   }
